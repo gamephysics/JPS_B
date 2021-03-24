@@ -2,7 +2,7 @@
 
 [Improving Jump Point Search (Daniel Harabor and Alban Grastien)](http://grastien.net/ban/articles/hg-icaps14.pdf)
 
-JPS(B), JPS(BL) 에서 힌트를 얻어 제작을 하였습니다.
+JPS(B), JPS(BL) 를 참고해서 제작을 하였습니다.
 
 캐리비안의해적, 크로스파이어, 창세기전, 건쉽 배틀 및 모든 신작 프로젝트의 
 
