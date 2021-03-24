@@ -2,7 +2,7 @@
 
 Improving Jump Point Search (Daniel Harabor and Alban Grastien)
 
-[Improving Jump Point Search] (http://grastien.net/ban/articles/hg-icaps14.pdf)
+[Improving Jump Point Search](http://grastien.net/ban/articles/hg-icaps14.pdf)
 
 JPS(B), JPS(BL) 에서 힌트를 얻어 제작을 하였습니다.
 
@@ -37,6 +37,6 @@ BLJPS 도 성능이 좋긴하지만 역시 충돌 정보의 변화에 따라 빠
 
 ## Reference
 
-[Improving Jump Point Search] (http://grastien.net/ban/articles/hg-icaps14.pdf)
+[Improving Jump Point Search](http://grastien.net/ban/articles/hg-icaps14.pdf)
 
 [narsue/BLJPS5](https://github.com/narsue/BLJPS5)
