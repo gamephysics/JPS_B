@@ -1,6 +1,7 @@
 # JPS(B)
 
 Improving Jump Point Search (Daniel Harabor and Alban Grastien)
+
 http://grastien.net/ban/articles/hg-icaps14.pdf
 
 JPS(B), JPS(BL) 에서 힌트를 얻어 제작을 하였습니다.
