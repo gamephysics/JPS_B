@@ -8,6 +8,9 @@ JPS(B), JPS(BL) 를 참고해서 제작을 하였습니다.
 
 필드 길찾기 알고리즘에 공용으로 사용하고 있습니다.
 
+## Youtube
+
+https://youtu.be/rfOgaPXCADQ
 
 ## Compile
 
