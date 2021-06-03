@@ -8,6 +8,8 @@ JPS(B), JPS(BL) 를 참고해서 제작을 하였습니다.
 
 필드 길찾기 알고리즘에 공용으로 사용하고 있습니다.
 
+<img src="PATHFINDING.png" width="50%" height="50%"></img>
+
 ## Youtube
 
 https://youtu.be/rfOgaPXCADQ
@@ -30,7 +32,6 @@ JPS 2011 다음의 알고리즘들은 다양한 선처리 연산을 하는데
 소스 코드의 형태는 JPS 구성에서 시작하여
 
 최종적으로 JPS(B)의 형태로 수정을 하게되었습니다.
-
 
 ## Reference
 
