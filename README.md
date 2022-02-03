@@ -12,7 +12,7 @@ JPS(B), JPS(BL) 를 참고해서 제작을 하였습니다.
 
 ## Youtube
 
-https://youtu.be/rfOgaPXCADQ
+[![Video Label](https://img.youtube.com/vi/rfOgaPXCADQ/0.jpg)](https://youtu.be/rfOgaPXCADQ)
 
 ## Compile
 
